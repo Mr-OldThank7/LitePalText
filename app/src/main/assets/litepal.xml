@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="Book"></dbname>
+    <version value="2"></version>
+    <list>
+        <mapping class="com.example.litepaltext.Book"></mapping>
+        <mapping class="com.example.litepaltext.News"></mapping>
+        <mapping class="com.example.litepaltext.Introduction"></mapping>
+        <mapping class="com.example.litepaltext.Category"></mapping>
+        <mapping class="com.example.litepaltext.Comment"></mapping>
+    </list>
+</litepal>
